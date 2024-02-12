@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/part-of: fbc-pipelines-app-excx
   name: fbc-sample-repo-llhy
 spec:
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 0
   selector:
     matchLabels:
